@@ -1,6 +1,6 @@
 # Dapp Kickstart
 
-A kickstarter like mini platform built on top of the ethereum blockchain as part of the [Ethereum Course](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide) on Udemy.
+A kickstarter like mini platform built on top of the ethereum blockchain as part of the [Ethereum Course](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide) [Stephen Grider](https://github.com/StephenGrider/) on Udemy.
 
 # Technologies Used
 
